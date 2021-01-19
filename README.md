@@ -1,6 +1,3 @@
-# Materiaal oefening Bootstrap een kennismaking
+# Link naar live versie
 
-bij de lessen ONT F1M2 Online Museum
-
-Gebruik dit materiaal om met Bootstrap dit te stijlen.
-Het gaat voornamelijk om te leren werken met het grid-systeem van Bootstrap.
+http://31318.hosts1.ma-cloud.nl/bootstrap/index.html
